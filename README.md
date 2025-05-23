@@ -47,7 +47,7 @@ This project is a Power BI interactive dashboard built to analyze survey respons
 Feel free to connect or provide feedback:
 
 - **Name**: Prajwal Kusha
-- **LinkedIn**: [Your LinkedIn](in/prajwal-kusha)
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/prajwal-kusha)
 - **Email**: [prajwalkusha.uni@gmail.com](url)
 
 ---
