@@ -37,7 +37,7 @@ This project is a Power BI interactive dashboard built to analyze survey respons
 
 ## 🚀 How to View
 
-1. Open it with [Power BI Desktop or Web](https://app.powerbi.com/groups/me/reports/8bd50852-81a8-4c11-8780-a40626bfa8cb/3aaf2d03390fcea4ba45?experience=power-bi)).
+1. Open it with [Power BI Desktop or Web](https://app.powerbi.com/groups/me/reports/8bd50852-81a8-4c11-8780-a40626bfa8cb/3aaf2d03390fcea4ba45?experience=power-bi).
 2. Interact with filters, slicers, and explore the dashboard!
 
 ---
@@ -47,7 +47,7 @@ This project is a Power BI interactive dashboard built to analyze survey respons
 Feel free to connect or provide feedback:
 
 - **Name**: Prajwal Kusha
-- **LinkedIn**: [LinkedIn](www.linkedin.com/in/prajwal-kusha)
+- **LinkedIn**: [PrajwalKusha](www.linkedin.com/in/prajwal-kusha)
 - **Email**: [prajwalkusha.uni@gmail.com](url)
 
 ---
